@@ -1,0 +1,45 @@
+body{
+    font-family: PredigeRoundedPanic,"Trebuchet MS","Helvetica Rounded",Arial,sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 60px;
+}
+
+h3{
+    color: black;
+
+}
+
+.Top{
+    background-color: #D6E5FA;
+    position: relative;
+    padding-top: 100px;
+}
+
+.Middle{
+    background-color: #BAABDA;
+}
+
+.Bottom{
+    background-color: #6E5FAD;
+}
+
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profilepic{
+    height: 150px;
+    width: 150px;
+}
